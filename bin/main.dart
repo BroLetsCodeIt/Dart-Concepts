@@ -41,11 +41,27 @@ void main() {
 
   // var rawString = r"asldf\sdf\sf\sf\sf";
  
-  var name = "sonam";
-  var number = 10;
+  // var name = "sonam";
+  // var number = 10;
 
   // type test operator
-  print(name is String); // name is type of string -> true
-  print(number is String); // false;
+  // print(name is String); // name is type of string -> true
+  // print(number is String); // false;
+
+  // if(name is String){
+  //   print('yes');
+  // }
+
+  //  conditional Expression
+
+  // var name = 'kamelsh';
+  // var fname = null;
+  // var user = name ?? 'guest'; // if name is not null then that value will be assigned to user and if name is null guest will be assigned to user variable.
+  // print(user);
+
+
+  
+
+  
 
 }
