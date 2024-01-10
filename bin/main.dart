@@ -40,6 +40,12 @@ void main() {
   // var div = 21 / 2 ;
 
   // var rawString = r"asldf\sdf\sf\sf\sf";
+ 
+  var name = "sonam";
+  var number = 10;
 
+  // type test operator
+  print(name is String); // name is type of string -> true
+  print(number is String); // false;
 
 }
